@@ -1,0 +1,22 @@
+{
+  "name": "conestructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azzabdin/conestructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azzabdin/conestructor/issues"
+  },
+  "homepage": "https://github.com/azzabdin/conestructor#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
